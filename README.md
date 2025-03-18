@@ -1,5 +1,5 @@
 # Projeto Web: 
-Sistema de Gerenciamento da aplicação do [AppWebDogWalker Repository](https://github.com/araujo-angel/appWebDogWalker.git)
+Sistema de Gerenciamento da aplicação do [AppWebDogWalker](https://github.com/araujo-angel/appWebDogWalker.git)
 
 Este projeto consiste em um sistema de gerenciamento onde o **back-end** é implementado utilizando **Spring Boot** e o **front-end**, disponiblizado em outro repositório, utilizando **Angular Material**. O objetivo da aplicação é permitir o cadastro, listagem e remoção de clientes, passeios e dogwalkers.
 
