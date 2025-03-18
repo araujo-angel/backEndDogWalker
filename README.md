@@ -19,7 +19,7 @@ Este projeto consiste em um sistema de gerenciamento onde o **back-end** é impl
 
 
 ### Para o Back-End (Spring Boot):
-- **Java 11 ou superior**: Para compilar e executar o Spring Boot.
+- **Java 17 ou superior**: Para compilar e executar o Spring Boot.
 - **Maven**: Para gerenciar as dependências e executar o projeto.
 
 ### Para o Front-End (Angular):
