@@ -16,9 +16,6 @@ Este projeto consiste em um sistema de gerenciamento onde o **back-end** é impl
 - **Angular Material**: Biblioteca de componentes do Material Design para Angular.
 - **RxJS**: Para lidar com operações assíncronas no front-end.
 
-## Pré-requisitos
-
-Antes de rodar o projeto, certifique-se de que tem os seguintes pré-requisitos instalados:
 
 ### Para o Back-End (Spring Boot):
 - **Java 11 ou superior**: Para compilar e executar o Spring Boot.
